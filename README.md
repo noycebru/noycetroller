@@ -3,6 +3,8 @@ please watch my tutorial: https://youtu.be/61U-S7_XTDw or you can read the speci
 
 This code is a modification of this example: https://github.com/dmadison/ArduinoXInput/tree/master/examples/GamepadPins
 
+3d print files https://www.thingiverse.com/thing:4406183
+
 This controller is based around using two Arduino Pro Micros that communicate with eather other via I2C. The reason for this is pro micros
 do not have enough pins to cover all of the buttons on an Xbox gamepad. If you use a Teensy board 3.1 it has enough pins to cover all the buttons.
 
